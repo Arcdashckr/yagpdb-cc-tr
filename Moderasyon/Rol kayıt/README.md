@@ -32,7 +32,7 @@
 
 Trigger|Trigger Türü|Kod|Gereksinimler|Custom Command Ayarları
 |---|---|---|:---:|:---:|
-rol|Command|[rol_kayıt](rol_kayıt.yag)|[rol ID](https://github.com/hhhhh-ckr/yagpdb-cc-tr/blob/main/Moderasyon/README.md#:~:text=kendi%20rollerinizin%20ID%27leri)|Moderatör rollerine izin verin
+rol|Command|[rol_kayıt](rol_kayıt.yag)|[rol ID](https://github.com/Arcdashckr/yagpdb-cc-tr/blob/main/Moderasyon/README.md#:~:text=kendi%20rollerinizin%20ID%27leri)|Moderatör rollerine izin verin
 
 > [!IMPORTANT]
 > Kodun içindeki rol ID'leri kendi rollerinizin ID'leri ile değiştirmelisiniz!
